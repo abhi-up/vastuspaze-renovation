@@ -41,8 +41,8 @@ export const LINKS = [
 ]
 
 export const HERO_CONTENT = {
-  title: "Homespire",
-  subtitle: "Inspiring Modern Living Through Smart Renovation",
+  title: "VastuSpaze",
+  subtitle: "Reimagine Your Space with Expert Renovation Services",
   image: hero,
 }
 
@@ -50,137 +50,137 @@ export const SERVICES_CONTENT = [
   {
     title: "Kitchen Renovation",
     description:
-      "Turn your kitchen into the heart of your home with Homespire’s design expertise. From modular storage to elegant finishes and lighting, we craft functional, beautiful spaces built for everyday living.",
+      "Transform your kitchen into a modern, functional space with our comprehensive renovation services. From custom cabinetry to state-of-the-art appliances, we handle all aspects of kitchen remodeling.",
     image: kitchenImage,
     alt: "Kitchen Renovation",
   },
   {
-    title: "Bathroom Remodeling",
+    title: "Bathroom Renovation",
     description:
-      "Refresh and elevate your bathroom with Homespire’s spa-inspired makeovers. We blend modern fixtures, luxurious tiles, and efficient layouts to bring comfort and elegance to your daily routine.",
+      "Create a spa-like retreat in your home with our bathroom renovation services. We offer luxurious fixtures, custom tiling, and innovative designs to elevate your bathroom experience.",
     image: bathroomImage,
-    alt: "Bathroom Remodeling",
+    alt: "Bathroom Renovation",
   },
   {
-    title: "Living Room Transformation",
+    title: "Living Room Renovation",
     description:
-      "Reimagine your living room with warm tones, ambient lighting, and modern interiors. Homespire designs spaces that reflect your personality while ensuring functionality and aesthetic harmony.",
+      "Update your living room with our expert renovation services. We offer custom designs, new flooring options, and stylish lighting solutions to create a warm and inviting space for your family and guests.",
     image: livingRoomImage,
-    alt: "Living Room Transformation",
+    alt: "Living Room Renovation",
   },
 ]
 
 export const PORTFOLIO_PROJECTS = [
   {
     id: 1,
-    name: "Contemporary Kitchen Upgrade",
+    name: "Modern Kitchen Renovation",
     description:
-      "A full kitchen redesign featuring sleek cabinetry, quartz countertops, and energy-efficient appliances for a clean, modern aesthetic.",
+      "A complete overhaul of a traditional kitchen, featuring custom cabinetry, granite countertops, and state-of-the-art appliances.",
     image: portfolio1,
     link: "#",
   },
   {
     id: 2,
-    name: "Luxury Bathroom Oasis",
+    name: "Luxurious Bathroom Remodel",
     description:
-      "A relaxing sanctuary with rainfall showers, marble textures, and ambient lighting—crafted to deliver a resort-like experience at home.",
+      "Transformed an outdated bathroom into a spa-like retreat with marble tiling, a glass shower, and modern fixtures.",
     image: portfolio2,
     link: "#",
   },
   {
     id: 3,
-    name: "Outdoor Lounge & Deck",
+    name: "Outdoor Living Space",
     description:
-      "Designed a cozy outdoor retreat complete with wooden decking, greenery, and smart lighting—perfect for family evenings and gatherings.",
+      "Designed a beautiful outdoor living area, complete with a pergola, fire pit, and cozy seating for entertainment.",
     image: portfolio3,
     link: "#",
   },
   {
     id: 4,
-    name: "Modern Living Room Makeover",
+    name: "Elegant Living Room Update",
     description:
-      "A complete redesign featuring layered lighting, premium flooring, and bespoke furniture to create a welcoming and elegant living area.",
+      "Updated a living room with new flooring, stylish lighting, and custom-built shelving units.",
     image: portfolio4,
     link: "#",
   },
   {
     id: 5,
-    name: "Smart Basement Conversion",
+    name: "Basement Conversion",
     description:
-      "Transformed an unused basement into a multifunctional entertainment zone featuring a home theatre, bar area, and workout space.",
+      "Converted an unused basement into a modern, multi-functional space including a home theater, gym, and guest bedroom.",
     image: portfolio5,
     link: "#",
   },
   {
     id: 6,
-    name: "Productive Home Office Setup",
+    name: "Home Office Transformation",
     description:
-      "Optimized a small space into a stylish, ergonomic home office designed for comfort, focus, and productivity.",
+      "Created a sleek and functional home office, optimizing space with ergonomic furniture, ample storage, and modern decor.",
     image: portfolio6,
     link: "#",
   },
 ]
 
 export const REVIEWS = {
-  text: "Discover how Homespire has transformed homes and improved the way our clients live. Every project reflects our passion for design, precision, and customer satisfaction.",
+  text: "Hear what our clients have to say about their experiences with VastuSpaze. We take pride in our work and are committed to delivering top-notch home renovation services.",
   reviews: [
     {
-      name: "Ritika Sharma",
+      name: "Alice Johnson",
       title: "Homeowner",
       review:
-        "Homespire completely redefined our kitchen! Their team understood our lifestyle and delivered a design that’s both practical and stunning. We absolutely love cooking here now.",
+        "VastuSpaze transformed our outdated kitchen into a modern masterpiece. The team was professional, attentive to our needs, and delivered beyond our expectations. We couldn't be happier with the results!",
       image: user1,
     },
     {
-      name: "Arjun Patel",
+      name: "Bob Smith",
       title: "Homeowner",
       review:
-        "From concept to completion, Homespire made our bathroom remodel effortless. The attention to detail and quality of materials exceeded expectations.",
+        "Our bathroom renovation was seamless, thanks to VastuSpaze. They took care of everything from design to execution, and the attention to detail was impeccable. Highly recommended!",
       image: user2,
     },
     {
-      name: "Meera Nair",
+      name: "Carla Mendes",
       title: "Homeowner",
       review:
-        "Homespire transformed our backyard into a peaceful retreat. The creativity, professionalism, and timely execution were truly impressive.",
+        "VastuSpaze helped us create the perfect outdoor living space. Their creativity and craftsmanship turned our backyard into a beautiful oasis. It's now our favorite place to relax and entertain guests.",
       image: user3,
     },
     {
-      name: "Rahul Mehta",
+      name: "David Lee",
       title: "Homeowner",
       review:
-        "Our living room looks straight out of a magazine! Homespire brought our ideas to life with a perfect blend of comfort and modern design.",
+        "The living room update exceeded our expectations. VastuSpaze's team was skilled and communicative, ensuring a smooth renovation process. The new design has brought a fresh, modern look to our home.",
       image: user4,
     },
     {
-      name: "Sneha Verma",
+      name: "Ella Fernandez",
       title: "Homeowner",
       review:
-        "Homespire designed our home office beautifully—minimal, comfortable, and highly functional. It’s become my favorite space in the house.",
+        "From start to finish, VastuSpaze was a pleasure to work with. They listened to our vision and brought it to life with expert craftsmanship. Our home office is now a stylish and functional space.",
       image: user5,
     },
     {
-      name: "Karan Gupta",
+      name: "Frank Wilson",
       title: "Homeowner",
       review:
-        "The basement conversion was handled with utmost professionalism. Homespire’s team turned it into a cozy family lounge that we now use every day.",
+        "VastuSpaze did an amazing job on our basement conversion. They created a cozy, multi-functional space that our family loves. The team was professional and delivered on time and within budget.",
       image: user6,
     },
   ],
 }
 
 export const CONTACT_INFO = {
-  text: "Ready to transform your space? Reach out to Homespire today for a free consultation and personalized renovation guidance.",
+  text: "Have questions or need more information? Get in touch with us, and we ll be happy to assist you.",
   phone: {
     label: "Phone",
-    value: "+91 98765 43210",
+    value: "(123) 456-7890",
   },
   email: {
     label: "Email",
-    value: "info@homespire.in",
+    value: "info@vastuspaze.com",
   },
   address: {
     label: "Address",
-    value: "21 Skyline Residency, Sector 42, Gurugram, Haryana 122002",
+    value: "1234 Renovation Ave, Suite 100, Your City, ST 56789",
   },
 }
